@@ -9,3 +9,8 @@ Magikarpa/Magikarpa is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->$ pkg upgrade && pkg update -y
 pkg upgrade && pkg update -y
+$ pkg upgrade && pkg update -y
+$ pkg install git python figlet -y
+$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
+$ cd Kiny-Painel
+$ python3 main.py
